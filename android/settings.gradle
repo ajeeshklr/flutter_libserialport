@@ -1,1 +1,9 @@
 rootProject.name = 'flutter_libserialport'
+
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
